@@ -62,7 +62,7 @@ texto2 = "Socorram-me, subi no ônibus em Marrocos"
 
 import re
 
-def analisar(entrada):
+    def analisar(entrada):
     if entrada is None:
         return False
     
@@ -74,7 +74,7 @@ def analisar(entrada):
     
     return limpa == invertida
 
-if __name__ == "__main__":
+    if __name__ == "__main__":
     texto1 = "A sacada da casa de cadasa"
     texto2 = "Socorram-me, subi no ônibus em Marrocos"
 
