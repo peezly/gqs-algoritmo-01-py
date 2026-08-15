@@ -14,10 +14,14 @@ STRING LIMPA
 inverte
 compara
 
-re.sub() - remove caracteres que nao são alfanuméricos
+re.sub() - remove caracteres que nao são alfanuméricos.
+
 .lower() - transforma caracteres em minusculo
+
 [::-1] - inverte
+
 == - compara
+
 return - volta o resultado 
 
 Como executar?
