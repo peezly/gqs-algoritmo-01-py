@@ -60,7 +60,7 @@ texto2 = "Socorram-me, subi no ônibus em Marrocos"
 
 ## Código
 
-import re
+    import re
 
     def analisar(entrada):
     if entrada is None:
@@ -80,3 +80,12 @@ import re
 
     print(f"Teste 1: {analisar(texto1)}")
     print(f"Teste 2: {analisar(texto2)}")
+
+
+## Sobre:
+
+professor: Daniel 
+
+Aluno: Pedro Martins 
+
+Responsável pela realização do fork, análise do código
