@@ -21,8 +21,8 @@ true
 função do main;
 no python faz o codigo seja executado quando o arquivo abrir automaticamente.
 
-nv2 o resultado retornado foi false por conta da divergencia/diferenca dos textos.
+explicando o: 
+método analisar(String entrada) 
 
-o teste 2 foi retornado com textos iguais.
+recebe uma frase e verifica se ela é um palíndromo (palíndromo uma palavra ou frase que continua igual quando é possivel ler de trás para frente, desconsiderando espaços, pontuação etc.)
 
-nv3 
