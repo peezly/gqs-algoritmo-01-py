@@ -25,15 +25,19 @@ re.sub() - remove caracteres que nao são alfanuméricos.
 return - volta o resultado 
 
 Como executar?
-2- como executar;
+
 salve o arquivo .py 
+
 executar o comando; python DesafioLogica.py
 
 saidas:
+
 False
+
 true
 
 ## Nivel 2 Engenharia Reversa e Análise de Comportamento
+
 função do main;
 no python faz o codigo seja executado quando o arquivo abrir automaticamente.
 
@@ -43,11 +47,14 @@ método analisar(String entrada)
 recebe uma frase e verifica se ela é um palíndromo (palíndromo uma palavra ou frase que continua igual quando é possivel ler de trás para frente, desconsiderando espaços, pontuação etc.)
 
 ex:
+
 texto1 = "A sacada da casa de cadasa"
+
 = asadecadasecadadacasa
 =false
 
 texto2 = "Socorram-me, subi no ônibus em Marrocos"
+
 = Socorrammesubinoonibusemmarrocos
 =true
 
